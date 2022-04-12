@@ -8,6 +8,7 @@
   "license": "MIT",
   "author": "Aye Myat Thin Aung",
   "dependencies": {
+    "moment": "^2.14.0",
     "express": "^4.14.0"
   },
   "main": "server.js",
