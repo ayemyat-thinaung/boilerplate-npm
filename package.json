@@ -4,6 +4,7 @@
   "keywords": [
     "freecodecamp"
   ],
+  "license": "MIT",
   "author": "Aye Myat Thin Aung",
   "dependencies": {
     "express": "^4.14.0"
